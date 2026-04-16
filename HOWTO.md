@@ -75,7 +75,7 @@ bar) or navigate manually via `cd`.
 
 Start the script:
 
-    maxcatcherdl.py
+    maxcatcher.py
 
 Choose **1** to start scraping.\
 Press `CTRL + C` to stop at any time.
